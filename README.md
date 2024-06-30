@@ -5,3 +5,6 @@
 # git config
 # git checkout
 # git reset
+# git pull
+# git push
+
