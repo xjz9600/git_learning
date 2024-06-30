@@ -4,3 +4,4 @@
 # git log
 # git config
 # git checkout
+# git reset
