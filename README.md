@@ -7,4 +7,5 @@
 # git reset
 # git pull
 # git push
+# git fetch
 
