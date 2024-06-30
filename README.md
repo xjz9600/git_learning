@@ -3,3 +3,4 @@
 # git merge
 # git log
 # git config
+# git checkout
